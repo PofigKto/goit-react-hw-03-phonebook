@@ -1,0 +1,18 @@
+.Filter__label {
+    font-size: 22px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    color: blue;
+    margin-top: 20px;
+  }
+  .Filter__input {
+    /* width: 70%; */
+    /* margin-left: 30px; */
+    height: 28px;
+    font-size: 14px;
+    color: blue;
+    border: 2px solid rgb(234, 255, 47);
+  }
